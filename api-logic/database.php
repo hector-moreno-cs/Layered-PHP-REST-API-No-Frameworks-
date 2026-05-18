@@ -3,8 +3,8 @@
 class Database {
 
     private $dblink;
-	private $username="webuser";
-	private $pw="SG8IuNt_T).Y[d8y";
+	private $username="x";
+	private $pw="x";
 	private $host="localhost";
 
     public function __construct($db) {
